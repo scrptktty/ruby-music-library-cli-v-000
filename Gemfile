@@ -8,4 +8,5 @@ group :test do
   gem 'rspec'
   gem 'nyan-cat-formatter'
   gem 'fivemat'
+  gem 'rspec_pacman_formatter'
 end
