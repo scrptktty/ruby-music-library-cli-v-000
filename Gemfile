@@ -7,5 +7,5 @@ group :test do
   gem 'pry'
   gem 'rspec'
   gem 'nyan-cat-formatter'
-  gem fivemat
+  gem 'fivemat'
 end
